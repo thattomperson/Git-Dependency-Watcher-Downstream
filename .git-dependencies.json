@@ -5,14 +5,20 @@
         "Owner": "thattomperson",
         "Repo": "Git-Dependency-Watcher-Upstream"
       },
-      "Version": "0.0.1"
+      "Version": "0.0.2",
+      "Options": {
+        "MinStability": ""
+      }
     },
     "Hugo": {
       "Github": {
         "Owner": "gohugoio",
         "Repo": "hugo"
       },
-      "Version": "0.0.0"
+      "Version": "0.0.0",
+      "Options": {
+        "MinStability": ""
+      }
     }
   }
 }
