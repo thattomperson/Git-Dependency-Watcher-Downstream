@@ -1,5 +1,8 @@
 {
-  "Git-Dependency-Watcher-Upstream": {
-    "url": "https://github.com/thattomperson/Git-Dependency-Watcher-Upstream"
-  }
+  "dependencies": {
+    "Git-Dependency-Watcher-Upstream": {
+      "url": "https://github.com/thattomperson/Git-Dependency-Watcher-Upstream",
+      "version": "0.0.1"
+    }
+  ]
 }
