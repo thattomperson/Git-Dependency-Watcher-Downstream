@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "Git-Dependency-Watcher-Upstream": {
-      "url": "https://github.com/thattomperson/Git-Dependency-Watcher-Upstream",
+      "github": {
+        "owner": "thattomperson",
+        "repo": "Git-Dependency-Watcher-Upstream"
+      },
       "version": "0.0.1"
     }
   }
