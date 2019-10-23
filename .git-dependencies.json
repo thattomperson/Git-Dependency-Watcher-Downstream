@@ -6,6 +6,13 @@
         "Repo": "Git-Dependency-Watcher-Upstream"
       },
       "Version": "0.0.2"
+    },
+    "Hugo": {
+      "Github": {
+        "Owner": "gohugoio",
+        "Repo": "hugo",
+      },
+      "Version": "0.0.0"
     }
   }
 }
